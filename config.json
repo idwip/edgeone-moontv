@@ -430,9 +430,7 @@
       "api": "https://api.sdzyapi.com/api.php/provide/vod",
       "name": "闪电资源",
       "detail": "https://www.sdzyapi.com"
-    }
-  },
-  "短视频解析 API": {
+    },
     "short_douyin": {
       "api": "https://api.nanyinet.com/api/gateway/video/download/api.php?apikey=xxx&url=",
       "name": "抖音去水印解析",
@@ -512,9 +510,7 @@
       "api": "http://api.xx.com/bilibili/?url=",
       "name": "B站解析",
       "detail": "http://api.xx.com"
-    }
-  },
-  "VIP 视频解析接口": {
+    },
     "vip_jx1": {
       "api": "http://jx.aeidu.cn/?url=",
       "name": "VIP视频解析1",
