@@ -345,6 +345,225 @@
     "fantuan": {
       "api": "https://www.fantuan.tv/api.php/provide/vod/",
       "name": "饭团影视"
+    },
+    "heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳",
+      "detail": "https://heimuer.tv"
+    },
+    "ruyi": {
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源",
+      "detail": "http://www.rycjapi.com"
+    },
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源",
+      "detail": "https://www.bfzyapi.com"
+    },
+    "okzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "OK资源",
+      "detail": "https://www.apibdzy.com"
+    },
+    "kuyun": {
+      "api": "http://api.kuyun88.com/api.php/provide/vod",
+      "name": "酷云资源",
+      "detail": "http://www.kuyun88.com"
+    },
+    "leduo": {
+      "api": "http://cj.leduozyapi.com/inc/apijson_vod.php",
+      "name": "乐多资源",
+      "detail": "http://www.leduozy.com"
+    },
+    "m3u8tv": {
+      "api": "https://www.zycaiji.net:7788/api.php/provide/vod",
+      "name": "M3U8.TV",
+      "detail": "https://www.zycaiji.net"
+    },
+    "qqzy": {
+      "api": "https://api.qqzyapi.com/api.php/provide/vod",
+      "name": "快播资源",
+      "detail": "https://www.qqzyapi.com"
+    },
+    "zmzy": {
+      "api": "http://www.zmzyapi.com/api.php/provide/vod",
+      "name": "樱花动漫",
+      "detail": "http://www.zmzyapi.com"
+    },
+    "tkzy": {
+      "api": "https://api.tiankongapi.com/api.php/provide/vod",
+      "name": "天空资源",
+      "detail": "https://www.tiankongapi.com"
+    },
+    "yzzy": {
+      "api": "http://api.yzzyapi.com/api.php/provide/vod",
+      "name": "影子资源",
+      "detail": "http://www.yzzyapi.com"
+    },
+    "hszy": {
+      "api": "https://api.hszapi.com/api.php/provide/vod",
+      "name": "红牛资源",
+      "detail": "https://www.hszapi.com"
+    },
+    "mgzy": {
+      "api": "https://api.mgzyapi.com/api.php/provide/vod",
+      "name": "芒果资源",
+      "detail": "https://www.mgzyapi.com"
+    },
+    "xlzy": {
+      "api": "https://api.xlzyapi.com/api.php/provide/vod",
+      "name": "线路资源",
+      "detail": "https://www.xlzyapi.com"
+    },
+    "lzzy": {
+      "api": "https://api.lzzyapi.com/api.php/provide/vod",
+      "name": "量子资源",
+      "detail": "https://www.lzzyapi.com"
+    },
+    "cjzy": {
+      "api": "http://api.cjzyapi.com/api.php/provide/vod",
+      "name": "畅捷资源",
+      "detail": "http://www.cjzyapi.com"
+    },
+    "sdzy": {
+      "api": "https://api.sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源",
+      "detail": "https://www.sdzyapi.com"
+    }
+  },
+  "短视频解析 API": {
+    "short_douyin": {
+      "api": "https://api.nanyinet.com/api/gateway/video/download/api.php?apikey=xxx&url=",
+      "name": "抖音去水印解析",
+      "detail": "https://nanyinet.com"
+    },
+    "short_kuaishou": {
+      "api": "http://api.xx.com/kuaishou/?url=",
+      "name": "快手解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_xhs": {
+      "api": "http://api.xx.com/xhs/?url=",
+      "name": "小红书解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_weishi": {
+      "api": "http://api.xx.com/weishi/?url=",
+      "name": "微视解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_ppx": {
+      "api": "http://api.xx.com/ppx/?url=",
+      "name": "皮皮虾解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_ppg": {
+      "api": "http://api.xx.com/ppg/?url=",
+      "name": "皮皮搞笑解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_hksp": {
+      "api": "http://api.xx.com/hksp/?url=",
+      "name": "好看视频解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_xpc": {
+      "api": "http://api.xx.com/xpc/?url=",
+      "name": "新片场解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_pdx": {
+      "api": "http://api.xx.com/pdx/?url=",
+      "name": "配音秀解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_lsp": {
+      "api": "http://api.xx.com/lsp/?url=",
+      "name": "梨视频解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_jttd": {
+      "api": "http://api.xx.com/jttd/?url=",
+      "name": "今日头条解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_ky": {
+      "api": "http://api.xx.com/ky/?url=",
+      "name": "开眼解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_momo": {
+      "api": "http://api.xx.com/momo/?url=",
+      "name": "陌陌解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_bx": {
+      "api": "http://api.xx.com/bx/?url=",
+      "name": "比心解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_mp": {
+      "api": "http://api.xx.com/mp/?url=",
+      "name": "美拍解析",
+      "detail": "http://api.xx.com"
+    },
+    "short_bilibili": {
+      "api": "http://api.xx.com/bilibili/?url=",
+      "name": "B站解析",
+      "detail": "http://api.xx.com"
+    }
+  },
+  "VIP 视频解析接口": {
+    "vip_jx1": {
+      "api": "http://jx.aeidu.cn/?url=",
+      "name": "VIP视频解析1",
+      "detail": "http://jx.aeidu.cn"
+    },
+    "vip_jx2": {
+      "api": "http://jx.m3u8.tv/jiexi/?url=",
+      "name": "VIP视频解析2",
+      "detail": "http://jx.m3u8.tv"
+    },
+    "vip_jx3": {
+      "api": "http://jx.playerjy.com/?url=",
+      "name": "VIP视频解析3",
+      "detail": "http://jx.playerjy.com"
+    },
+    "vip_jx4": {
+      "api": "http://jx.m3u8.tv/jiexi/?url=",
+      "name": "VIP视频解析4",
+      "detail": "http://jx.m3u8.tv"
+    },
+    "vip_jx5": {
+      "api": "http://jx.playerjy.com/?url=",
+      "name": "VIP视频解析5",
+      "detail": "http://jx.playerjy.com"
+    },
+    "vip_jx6": {
+      "api": "http://jx.m3u8.tv/jiexi/?url=",
+      "name": "VIP视频解析6",
+      "detail": "http://jx.m3u8.tv"
+    },
+    "vip_jx7": {
+      "api": "http://jx.playerjy.com/?url=",
+      "name": "VIP视频解析7",
+      "detail": "http://jx.playerjy.com"
+    },
+    "vip_jx8": {
+      "api": "http://jx.m3u8.tv/jiexi/?url=",
+      "name": "VIP视频解析8",
+      "detail": "http://jx.m3u8.tv"
+    },
+    "vip_jx9": {
+      "api": "http://jx.playerjy.com/?url=",
+      "name": "VIP视频解析9",
+      "detail": "http://jx.playerjy.com"
+    },
+    "vip_jx10": {
+      "api": "http://jx.m3u8.tv/jiexi/?url=",
+      "name": "VIP视频解析10",
+      "detail": "http://jx.m3u8.tv"
     }
   }
 }
