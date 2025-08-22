@@ -1,11 +1,105 @@
 {
   "homepage_password": "admin1122",
- "cache_time": 9200,
+  "cache_time": 9200,
     "api_site": {
      "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
+    },
+    "heimuer": {
+       "api": "https://json.heimuer.xyz/api.php/provide/vod",
+       "name": "黑木耳",
+       "detail": "https://heimuer.tv"
+    },
+    "8090ys": {
+       "api": "https://www.8090g.cn/api.php/provide/vod",
+       "name": "8090影视",
+       "detail": "https://www.8090g.cn"
+    },
+    "ckplayer": {
+       "api": "https://www.ckplayer.vip/jiexi/?url=",
+       "name": "CKPlayer解析",
+       "detail": "https://www.ckplayer.vip"
+    },
+    "jxla": {
+       "api": "https://api.jiexi.la/?url=",
+       "name": "解析啦",
+       "detail": "https://jiexi.la"
+    },
+    "jsonplayer": {
+       "api": "https://jx.jsonplayer.com/player/?url=",
+       "name": "JSONPlayer",
+       "detail": "https://jsonplayer.com"
+    },
+    "yingshimiao": {
+       "api": "https://yingshimiao.com/api.php/provide/vod",
+       "name": "影视猫",
+       "detail": "https://yingshimiao.com"
+    },
+    "tvapi": {
+       "api": "https://tvapi.xyz/api.php/provide/vod",
+       "name": "TV-全网影视",
+       "detail": "https://tvapi.xyz"
+    },
+    "kuyun": {
+        "api": "https://api.kuyun.tv/api.php/provide/vod",
+        "detail": "https://kuyun.tv"
+    },
+    "dyhome": {
+       "api": "https://dyapi.top/api.php/provide/vod",
+       "name": "电影之家",
+       "detail": "https://dyapi.top"
+    },
+    "wuming": {
+       "api": "https://www.wuming.tv/api.php/provide/vod",
+       "name": "无名影视",
+       "detail": "https://www.wuming.tv"
+    },
+    "zhuiju": {
+       "api": "https://api.zhuiju.tv/api.php/provide/vod",
+       "name": "追剧神器",
+       "detail": "https://zhuiju.tv"
+    },
+    "heimuer2": {
+       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+       "name": "TV-黑木耳点播",
+       "detail": "https://heimuer.tv"
+    },
+    "dysoso": {
+       "api": "https://www.dysoso.com/api.php/provide/vod",
+       "name": "电影搜索",
+       "detail": "https://dysoso.com"
+    },
+    "8090jx": {
+       "api": "https://www.8090g.cn/jx/?url=",
+       "name": "8090解析",
+       "detail": "https://www.8090g.cn"
+    },
+    "qwapi": {
+       "api": "https://api.qwapi.com/?url=",
+       "name": "全网影视解析",
+       "detail": "https://qwapi.com"
+    },
+    "xiaobai": {
+       "api": "https://api.xiaobai.tv/api.php/provide/vod",
+       "name": "小白影视",
+       "detail": "https://xiaobai.tv"
+   },
+   "vipjx": {
+      "api": "https://www.vipjx.com/?url=",
+      "name": "VIP解析接口",
+      "detail": "https://vipjx.com"
+   },
+   "yunjx": {
+      "api": "https://www.yunjiexi.com/?url=",
+      "name": "云解析",
+      "detail": "https://yunjiexi.com"
+   },
+   "shortvideo": {
+      "api": "https://api.shortvideo.tv/?url=",
+      "name": "短视频解析",
+      "detail": "https://shortvideo.tv"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
